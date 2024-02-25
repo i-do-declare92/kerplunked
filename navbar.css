@@ -1,8 +1,19 @@
 #navbar {
     display: flex;
+    background-color: #000;
+}
+
+.logo {
+    position: relative;
 }
 
 li {
   margin: 5%;
   list-style: none;
+  background-color: #000;
+}
+
+#link {
+    text-decoration: none;
+    background-color: #000;   
 }
