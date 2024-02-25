@@ -3,8 +3,8 @@
     background-color: #000;
 }
 
-.logo {
-    position: relative;
+.logo img{
+    max-width: 100%;
 }
 
 li {
