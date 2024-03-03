@@ -20,6 +20,16 @@
     height: 60px;
     overflow: hidden;
     border-radius: 50%;
+    animation: rotateLogo 5s linear infinite;
+}
+
+@keyframes rotateLogo {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
 }
 
 #navbar a {
