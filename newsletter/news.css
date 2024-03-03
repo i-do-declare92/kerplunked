@@ -1,0 +1,23 @@
+body {
+    background-color: gray;
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    background-color: gray;
+}
+
+.footer {
+    display: flex;
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    background-color: #030303f0;
+    justify-content: space-evenly;
+}
+
+.footer li {
+    display: inline;
+    list-style: none;
+}
